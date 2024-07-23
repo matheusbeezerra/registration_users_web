@@ -1,5 +1,5 @@
 # Cadastro Online
-Descrição
+
 Este é um aplicativo de cadastro de usuários construído com React no frontend e Node.js no backend. Ele permite que os usuários registrem suas informações pessoais, visualizem a lista de usuários cadastrados em um modal e excluam usuários da lista.
 
 ## Funcionalidades
