@@ -49,13 +49,13 @@ function Home() {
         <input name='email' type='email' placeholder='Email' ref={inputEmail} />
         <input name='cpf' type='text' placeholder='CPF' ref={inputCPF} />
         <button type='button' onClick={createUsers}>Cadastrar</button>
-        <button type='button' className='view-users-btn' onClick={toggleModal}>Acesse seu Cadastro</button>
+        <button type='button' className='view-users-btn' onClick={toggleModal}>Usuários Cadastrados</button>
       </form>
       {isModalOpen && (
         <div className='modal'>
           <div className='modal-content'>
             <span className='close' onClick={toggleModal}>&times;</span>
-            <h1>Usuários Cadastrados</h1>
+            <h1>Lista de Cadastros</h1>
             {users.map((user) => (
               <div key={user.id} className='user-card'>
                 <div>
@@ -72,6 +72,9 @@ function Home() {
           </div>
         </div>
       )}
+      <div className='footer'>
+        <span>Desenvolvido por MB</span>
+      </div>
     </div>
   );
 }

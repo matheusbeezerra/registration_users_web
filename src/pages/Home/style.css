@@ -147,3 +147,8 @@ form {
   text-decoration: none;
   cursor: pointer;
 }
+
+.footer {
+  color: #67678a;
+  padding: 10%;
+}
