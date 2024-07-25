@@ -23,6 +23,9 @@ Prisma (ORM para banco de dados)
 CORS (Controle de acesso entre domínios)
 
 # Layout
+<img width="1988" alt="Screenshot 2024-07-25 at 15 16 02" src="https://github.com/user-attachments/assets/b5b24305-c31c-4cbd-abb8-8027a6cccdba">
+<img width="1979" alt="Screenshot 2024-07-25 at 15 16 19" src="https://github.com/user-attachments/assets/dd68237d-e9fb-4334-b08d-589a496f4402">
 
-<img width="1983" alt="Screenshot 2024-07-23 at 16 35 44" src="https://github.com/user-attachments/assets/82ceb376-4ba6-4ff5-831d-6e74b084cd13">
-<img width="1984" alt="Screenshot 2024-07-23 at 16 40 18" src="https://github.com/user-attachments/assets/48258a55-2924-4eb3-9274-14477f3d42b1">
+## Backend interagindo com o Frontend: 
+<img width="1839" alt="Screenshot 2024-07-25 at 15 17 21" src="https://github.com/user-attachments/assets/c74c8d5b-9aa7-47df-be63-31d52904424c">
+
